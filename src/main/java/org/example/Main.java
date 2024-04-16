@@ -14,5 +14,14 @@ public class Main {
         cats.put("Mokomoko", "British Shorthair");
 
         cats.forEach((name, type) -> System.out.println(name + "'s breed of cat is an " + type + "."));
+
+        String searchKey = "Poyopoyo-chan";
+        String breed = cats.get(searchKey);
+
+        if (breed != null) {
+            System.out.println(searchKey + "'s breed of cat is an " + breed + ".");
+        } else {
+            System.out.println("That kitty was not found.");
+        }
     }
 }
