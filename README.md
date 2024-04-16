@@ -14,3 +14,6 @@
 
 # 例外処理前のコンソール表示画像
 ![image](https://github.com/Ema-Sakai/re-Assignment-3/assets/166620990/f706b4d2-bcef-4374-8610-266502a08ff9)
+
+# 例外処理後のコンソール表示画像
+![image](https://github.com/Ema-Sakai/re-Assignment-3/assets/166620990/705d72e9-39c8-45f3-b140-349386b674af)
